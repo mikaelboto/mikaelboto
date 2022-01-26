@@ -17,7 +17,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mik-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mik-cp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Mik-cp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Mik-csh" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Mik-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Mik-Git" height="30" width="40"
@@ -33,5 +33,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-ori
   <a href = "mailto:mikaelboto3@hotmail.com"><img src="https://img.shields.io/badge/-EMAIL-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mikael-bôto-b6a6231b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/DanFeitosa4/DanFeitosa4/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DanFeitosa4/mikaelboto/blob/output/github-contribution-grid-snake.svg)
 </div>
