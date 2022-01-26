@@ -33,5 +33,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-ori
   <a href = "mailto:mikaelboto3@hotmail.com"><img src="https://img.shields.io/badge/-EMAIL-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mikael-bôto-b6a6231b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/DanFeitosa4/mikaelboto/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mikaelboto/mikaelboto/blob/output/github-contribution-grid-snake.svg)
 </div>
