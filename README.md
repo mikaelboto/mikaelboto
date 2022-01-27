@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Mikael Bôto.
 
-- 💼 Hoje trabalho como Técnico em Informática no Hospital Cirurgia, prestando assistência aos usuários ao Sistema (Salux - Gestão Hospitalar Integrada, prontuário eletrônico, hospital digital, LGPD saúde e indicadores estratégicos), estou para me formar em Análise e Desenvolvimento de Sistemas na instituição UNINASSAU e estou cursando Unity Game Developer e Unreal Engine 4 com a escola online Mentorama.
-- 🖥️ Estudando JAVA, PHP, C# e C++
+- 💼 Hoje trabalho como Técnico em Informática no Hospital Cirurgia, prestando assistência aos usuários ao Sistema (Salux - Gestão Hospitalar Integrada, prontuário eletrônico, hospital digital, LGPD saúde e indicadores estratégicos), formado em Tecnologoa em Análise e Desenvolvimento de Sistemas na instituição UNINASSAU 2019/2, e estou cursando Unity Game Developer e Unreal Engine 4 com a escola online Mentorama.
+- 🖥️ Me especializando em PHP, C# e C++
 - 📧 Contate-me no email: mikaelboto3@hotmail.com
 
 
