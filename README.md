@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Mikael Bôto.
 
 - 💼 Hoje trabalho como Técnico em Informática no Hospital Cirurgia, prestando assistência aos usuários ao Sistema (Salux - Gestão Hospitalar Integrada, prontuário eletrônico, hospital digital, LGPD saúde e indicadores estratégicos), formado em Tecnologoa em Análise e Desenvolvimento de Sistemas na instituição UNINASSAU 2019/2, e estou cursando Unity Game Developer e Unreal Engine 4 com a escola online Mentorama.
-- 🖥️ Me especializando em PHP, C# e C++
+- 🖥️ Me especializando em PHP, Python
 - 📧 Contate-me no email: mikaelboto3@hotmail.com
 
 
@@ -16,10 +16,9 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mik-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mik-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/python-original.svg">
   <img align="center" alt="Mik-cp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Mik-csh" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Mik-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
   <img align="center" alt="Mik-Git" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">  
  
