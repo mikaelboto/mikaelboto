@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for FoxBit as Senior SRE
 
-- 🌱 I’m currently learning **ElasticSearch and Azure DevOps**
+- 🌱 I’m currently learning **Argocd and CKS**
 
 - 📫 How to reach me **mikaelboto3@hotmail.com**
 
