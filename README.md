@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikael Bôto 🐬</h1>
 <h3 align="center">DevOps and Cloud Solutions Architect</h3>
 
-- 🔭 I’m currently working for FoxBit as Senior SRE
+- 🔭 I’m currently working as Senior SRE
 
 - 🌱 I’m currently learning **Argocd and CKS**
 
