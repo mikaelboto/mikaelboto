@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Senior SRE
 
-- 🌱 I’m currently learning **Argocd and CKS**
+- 🌱 I’m currently learning **CKS**
 
 - 📫 How to reach me **mikaelboto3@hotmail.com**
 
